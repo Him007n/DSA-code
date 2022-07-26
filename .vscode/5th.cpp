@@ -13,5 +13,4 @@ int main ()
         }
         cout<<"value of sum is : "<< sum <<endl;
         
-
 }
